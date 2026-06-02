@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Temir-Bozor-Buyurtmalari/static/css/main.3982bb5f.css",
+    "main.js": "/Temir-Bozor-Buyurtmalari/static/js/main.e25975de.js",
+    "index.html": "/Temir-Bozor-Buyurtmalari/index.html",
+    "main.3982bb5f.css.map": "/Temir-Bozor-Buyurtmalari/static/css/main.3982bb5f.css.map",
+    "main.e25975de.js.map": "/Temir-Bozor-Buyurtmalari/static/js/main.e25975de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.e25975de.js"
+  ]
+}
