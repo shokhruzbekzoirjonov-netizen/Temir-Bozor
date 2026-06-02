@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Temir-Bozor-/static/css/main.3982bb5f.css",
-    "main.js": "/Temir-Bozor-/static/js/main.e25975de.js",
+    "main.js": "/Temir-Bozor-/static/js/main.945e6bde.js",
     "index.html": "/Temir-Bozor-/index.html",
     "main.3982bb5f.css.map": "/Temir-Bozor-/static/css/main.3982bb5f.css.map",
-    "main.e25975de.js.map": "/Temir-Bozor-/static/js/main.e25975de.js.map"
+    "main.945e6bde.js.map": "/Temir-Bozor-/static/js/main.945e6bde.js.map"
   },
   "entrypoints": [
     "static/css/main.3982bb5f.css",
-    "static/js/main.e25975de.js"
+    "static/js/main.945e6bde.js"
   ]
 }
